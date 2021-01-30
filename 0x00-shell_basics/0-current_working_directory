@@ -1,6 +1,2 @@
 #! /bin/bash
-
-# printing path name of current directory
-
-echo "/holbertonschool-zero_day/0x00-shell_basics"
-
+pwd /users/holbertonschool-zero_day/0x00-shellbasics
