@@ -1,0 +1,1 @@
+Welcome to shell basics and what I have learnd about with help of others
